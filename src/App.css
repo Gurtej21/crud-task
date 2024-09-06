@@ -1,0 +1,87 @@
+
+
+
+
+
+
+.FORM {
+  
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+form {
+  margin-bottom: 100px;
+}
+
+input {
+  /* background-color: aqua; */
+  width: 210px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+table {
+  
+  /* background-color: aqua; */
+  width: 100%;
+ 
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+button {
+  width: 100px;
+  background-color: grey;
+  margin-right: 5px;
+}
+
+.LIST{
+  /* background-color: aqua; */
+  margin-bottom: 20px;
+}
+
+input {
+  height: 38.5px;
+  margin-right: 10px;
+}
+
+table {
+  width: 100%;
+  
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  /* background-color: aqua; */
+}
+
+button {
+  width: 100px;
+  height: 45px;
+  background-color: grey;
+  margin-right: 5px;
+}
+
+.container{
+  background-color: green;
+  text-wrap: white ;
+  color: white; 
+  position: relative;
+}
+
+.button{
+  display: flex;
+  /* position: absolute;
+  margin-bottom: 50px; */
+  justify-content: center;
+  background-color: aqua;
+}
+
+
